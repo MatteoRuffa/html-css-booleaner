@@ -34,3 +34,17 @@ section > div {
 figcaption {
     font-size: 10px;
 }
+
+table > thead {
+    color: white;
+    background-color: #20a9e5;
+}
+
+.blue {
+    background-color: #b1e5f2;
+}
+
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+  }
