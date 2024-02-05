@@ -17,4 +17,20 @@ body {
     font-weight: 500;
     font-style: normal;
 }
-  
+
+#autor {
+    color: #20a9e5;
+}
+
+#date {
+    font-size: small;
+    color: gray;
+}
+
+section > div {
+    padding-bottom: 2%;
+}
+
+figcaption {
+    font-size: 10px;
+}
